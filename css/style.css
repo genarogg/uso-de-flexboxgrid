@@ -40,4 +40,8 @@ header{
             padding: 40px 20px; 
         }
 
-           
+            .logo-menu .menu a:hover{
+                border-bottom: 4px solid #ff9f1c;
+                padding-bottom: 36px;
+            }
+
