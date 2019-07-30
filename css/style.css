@@ -26,3 +26,18 @@ header{
         color:#fff;
         text-decoration: none;
     }
+.logo-menu{
+    background: #00171f;
+}
+
+    .logo-menu h2 {
+        font-weight: 300;
+        font-size: 30px;
+    }
+
+        .logo-menu .menu a{
+            display: inline-block;
+            padding: 40px 20px; 
+        }
+
+           
