@@ -18,3 +18,11 @@ body{
 
 }
 
+header{
+    color:#fff;
+
+}
+    header a{
+        color:#fff;
+        text-decoration: none;
+    }
