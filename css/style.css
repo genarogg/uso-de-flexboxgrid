@@ -75,3 +75,22 @@ header{
             margin-left: 7px;
         }
 
+footer{
+    background: #00171f;
+    color:#fff;
+    padding: 40px 0;
+}
+
+    footer .nav a{
+        width: 100%;
+        display: block;
+        padding:  20px;
+        color: #fff;
+        text-decoration: none;
+        border-bottom: 1px solid rgba(255,255,255, 0.2);
+    }
+        footer .nav a:hover{
+            text-decoration: underline;
+        }
+
+   
